@@ -7,7 +7,7 @@ DevOps, QA, and Program Manager
  <a href="http://www.linkedin.com/in/subramanyam-pasumarti">My LinkedIn page</a>
 </div>
 
-Currently seeking opportunities in DevOps and Program Management.
+Currently seeking opportunities in DevOps, Program Management and QA.
 
 ## Summary
 
