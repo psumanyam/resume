@@ -3,7 +3,7 @@
 DevOps, QA, and Program Manager
 
 <div id="webaddress">
-<a href="psumanyam@gmail.com">psumanyam@gmail.com</a>  <br/>
+<a href="psumanyam@gmail.com">mailto:psumanyam@gmail.com</a>  <br/>
  <a href="http://www.linkedin.com/in/subramanyam-pasumarti">My LinkedIn page</a>
 </div>
 
